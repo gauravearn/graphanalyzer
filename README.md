@@ -1,6 +1,6 @@
 # graphanalyzer
 
-a graphanalyzer package that uses the information from the paf and the gfa files for the graph alignment and uses the concurrency to process the alignments and other variables and uses a dataframe approach. You can find the code in the src/graphanalyzer.py and you can use those as import in your script untill the complete package is available from pip. a heuristic binary search implementation of the node in the graph clustering. It follows the stack implementation so that that the weight to the next node can be assigned on the search pattern. Written in a combination of C++ and python.
+a graphanalyzer package that uses the information from the paf and the gfa files for the graph alignment and uses the concurrency to process the alignments and other variables and uses a dataframe approach. You can find the code in the src/graphanalyzer.py and you can use those as import in your script untill the complete package is available from pip. a heuristic binary search implementation of the node in the graph clustering. It follows the stack implementation so that that the weight to the next node can be assigned on the search pattern. Written in a combination of C++ and python. Added the support for the visualization of graphics.
 
 Gaurav Sablok \
 Academic Staff Member \
