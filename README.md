@@ -1,6 +1,13 @@
 # graphanalyzer
 
-a graphanalyzer package that uses the information from the paf and the gfa files for the graph alignment and uses the concurrency to process the alignments and other variables and uses a dataframe approach
+a graphanalyzer package that uses the information from the paf and the gfa files for the graph alignment and uses the concurrency to process the alignments and other variables and uses a dataframe approach. 
+
+Gaurav Sablok \
+Academic Staff Member \
+Bioinformatics \
+Institute for Biochemistry and Biology \
+University of Potsdam \
+Potsdam,Germany \
 
 ## Installation
 
