@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "graphanalyzer"
+version = "0.1.0"
+description = "a graphanalyzer package that uses the information from the paf and the gfa files for the graph alignment and uses the concurrency to process the alignments and other variables and uses a dataframe approach"
+authors = ["Gaurav Sablok"]
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
