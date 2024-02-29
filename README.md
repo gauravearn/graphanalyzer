@@ -1,6 +1,6 @@
 # graphanalyzer
 
-a graphanalyzer package that uses the information from the paf and the gfa files for the graph alignment and uses the concurrency to process the alignments and other variables and uses a dataframe approach. 
+a graphanalyzer package that uses the information from the paf and the gfa files for the graph alignment and uses the concurrency to process the alignments and other variables and uses a dataframe approach. You can find the code in the src/graphanalyzer.py and you can use those as import in your script untill the complete package is available from pip. 
 
 Gaurav Sablok \
 Academic Staff Member \
